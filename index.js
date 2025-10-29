@@ -1,5 +1,7 @@
 #!/usr/bin/env note
 
+import {count} from "./utils.js";
+
 console.log("Hello, World!");
 
 const note = process.argv[2]
